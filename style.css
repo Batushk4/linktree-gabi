@@ -59,11 +59,11 @@
     border-radius: 5%;
 }
 
-.links a:hover input {
+/* .links a:hover input {
     transition: 0.6s;
     background: #323333;
     color: white;
-}
+} */
 
 .footer p{
     margin-bottom: 20px;
