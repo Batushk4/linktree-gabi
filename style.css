@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
 
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 .container {
     max-width: 960px;
     padding: 0 3%;
-    margin: 0 auto ;
+    margin: 0 auto;
 }
 
 .logo {
@@ -33,7 +33,7 @@
     color: #000;
 }
 
-.descricao p{
+.descricao p {
     margin-bottom: 15px;
     font-size: 18px;
     color: #000;
@@ -51,7 +51,7 @@
 
 .links input {
     cursor: pointer;
-    width: 260px;
+    width: 290px;
     height: 40px;
     font-size: 18px;
     color: #000;
@@ -66,7 +66,8 @@
     color: white;
 }
 
-.footer p{
+.footer p {
     margin-bottom: 20px;
     display: flex;
 }
+
